@@ -53,6 +53,10 @@ Before starting, I will ask:
 - Date/time: [2025-11-18 11:47]
 - Pseudonym assigned: ["Participant A"]
 - Consent confirmed: [AH]
+- Date/time: [2025-11-21 11:39]
+- Pseudonym assigned: ["Participant B"]
+- Consent confirmed: [FD]
+
 
 ---
 

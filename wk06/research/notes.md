@@ -14,7 +14,7 @@
 - easy to make list and check stuff
 
 
-**Themes**: fill in later
+**Themes**: Need for app to run smoothly and efficiently
 
 ---
 
@@ -26,7 +26,7 @@
 - Good folder system
 - visuals would help in planning process 
 
-**Themes**: fill in later
+**Themes**: 'app needs to look visually appealing'
 
 ---
 
@@ -46,6 +46,7 @@
 **Response**: "Yeah because the application is on on mobile device"
 
 **Observations**:
+- make sure the application has the functionality to be used without a keyboard/ custom input devices
 
 
 **Themes**: `keyboard_nav`, `temporary_impairment`, `button_accessibility`
@@ -57,7 +58,7 @@
 
 **Observations**:
 - Contrast issue (situational disability)
-- Zoom breaks responsive design
+- Zoom/ bigger font can help with 
 - Environmental factor (sunlight)
 
 **Themes**: `contrast`, `zoom`, `responsive_design`
@@ -68,22 +69,105 @@
 **Response**: "The ability to change background colour or pick a custom image"
 
 **Observations**:
+- customization enables more usage
+
+## Summary (Participant A)
+**Top pain points**:
+1. Visuals
+2. Customization
+3. Fonts
+4. Efficiency
+
+**Job story ideas**:
+- "When i'm making a list, i want to be able to pick the background"
+- "When i don't have access to a keyboard, the app should allow for touch screen interaction (if possible) so tasks can still be completed!"
+- "When making lists, i would like confirmations that my changes have been saved."
+
+--------------------------------------
+## Participant B
+**Date**: [2025-11-21 11:36]
+**Context**: [perfers dark mode, struggles to use keyboard, austism?]
+**Consent**: ✅ Confirmed verbally
+**Duration**: [~10 minutes]
+
+### Q1: When was the last time you used a task manager - what on was used
+**Response**: "Rarely, mostly on phone. Uses head"
+
+**Observations**:
+- quick to use
+- easy to make list and check stuff
+
+
+**Themes**: fill in later
+
+---
+
+### Q2: What frustrates you using the app?
+**Response**: "the font is bad, never used one tbh. Traditional, likes using pen and paper "
+
+**Observations**:
+- Lack of sharp edges (rounded edges hater)
+- Good folder system
+- visuals would help in planning process 
+
+**Themes**: fill in later
+
+---
+
+### Q3: Lost track of important task?
+**Response**: "Probably"
+
+**Observations**:
+- Lack of visibility
+- having priority system
+- pinning system would very useful
+
+**Themes**: `prioritisation`, `visibility`, `urgent_tasks`
+
+---
+
+### Q4: Work without a mouse?
+**Response**: "yes i have a laptop."
+
+**Observations**:
+
+
+**Themes**: `keyboard_nav`, `temporary_impairment`, `button_accessibility`
+
+---
+
+### Q5: bright sunlight?
+**Response**: "couldn't see ****ing screen"
+
+**Observations**:
+- Contrast issue (situational disability)
+- Zoom breaks responsive design
+- Environmental factor (sunlight)
+
+**Themes**: `contrast`, `zoom`, `responsive_design`
+
+---
+
+### Q6: One feature to add?
+**Response**: "pen and paper option -> like an iPad"
+
+**Observations**:
 - Motivation through feedback
 - Progress visualisation
 - Weekly scope (not just daily)
 
-**Themes**: `progress_tracking`, `motivation`, `feedback`
+**Themes**: 
 
 ---
 
 ## Summary (Participant A)
 **Top pain points**:
-1. Filter resets → cognitive overload
-2. No confirmation feedback → uncertainty
-3. Keyboard navigation gaps → temporary exclusion
-4. Contrast issues in bright light → situational disability
+1. 
+2. 
+3. 
+4. 
 
 **Job story ideas**:
-- "When I'm filtering tasks, I want the selection to persist across page reloads so I don't lose my place."
-- "When I submit a form, I want immediate confirmation so I know it worked without refreshing."
-- "When my mouse breaks, I want full keyboard access so I can still complete tasks."
+- 
+- 
+- 
