@@ -72,8 +72,8 @@ If you change your mind after the interview:
 
 ## Contact
 
-**Researcher**: [Your Name], [your-email@leeds.ac.uk]
-**Module Lead**: Dr. [Name], [module-email]
+**Researcher**: [Otise Ojuri], [qmmz6263@leeds.ac.uk]
+**Module Lead**: [Amy Brereton], [a.m.brereton@leeds.ac.uk]
 **University Ethics**: Research Ethics, ethics@leeds.ac.uk
 
 ---
